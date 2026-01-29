@@ -8,11 +8,6 @@
   <strong>Robust identity and access management system providing secure authentication, fine-grained authorization, and comprehensive protection against unauthorized access.</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-18+-green.svg" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/License-Proprietary-blue.svg" alt="License"/>
-  <img src="https://img.shields.io/badge/Security-Enterprise%20Grade-red.svg" alt="Security"/>
-</p>
 
 ---
 
@@ -205,21 +200,6 @@ npm run dev
 
 ---
 
-## 📝 API Documentation
-
-See [API Documentation](docs/api-documentation.md) for detailed API endpoints.
-
-## 🔒 Security
-
-See [Security Documentation](docs/security-policies.md) for security best practices.
-
-## 📄 License
-
-This project is proprietary software - see the [LICENSE](LICENSE) file for details.
-
-Created by Dhruv Tripathi. All rights reserved. No contributions accepted.
-
----
 
 ## 👤 Creator
 
